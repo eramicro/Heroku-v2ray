@@ -86,5 +86,3 @@ addEventListener(
     }
 )
 ```
-
-捐赠本博：https://starts.sh/donation.html
